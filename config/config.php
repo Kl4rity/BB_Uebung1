@@ -1,8 +1,6 @@
 <?php
+include "controller/Switchboard.php";
+include "models/Department.php";
+include "views/JsonView.php";
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
+define("DATAPATH", "/Applications/XAMPP/htdocs/Uebung1/data/");

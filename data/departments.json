@@ -1,0 +1,28 @@
+{"departments": [
+    {
+	"name": "Department1",
+	"number": "0800 123 123",
+	"employees": [{
+		"name": "Franz",
+		"line": 11
+	}, {
+		"name": "Sabine",
+		"line": 12
+	}]
+    },
+    {
+        "name": "Department2",
+        "number": "0800 567 567",
+        "employees": [
+        {
+                "name": "Martina",
+                "line": 11
+        }, {
+                "name": "Fabian",
+                "line": 12
+        },{
+                "name": "Thomas",
+                "line": 13
+        }]
+    }
+]}
